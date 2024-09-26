@@ -1,0 +1,2 @@
+# network_connection_check_auto_detected_with_custom_dialouge
+Network Connection Check Auto Detected With Custom Dialouge
